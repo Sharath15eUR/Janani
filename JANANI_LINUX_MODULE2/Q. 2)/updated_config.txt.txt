@@ -1,3 +1,0 @@
-127.0.0.1 refers to a machine
-Accessing 127.0.0.1 should require more knowledge on 127.0.0.1
-127.0.0.1 has a specific ip address
