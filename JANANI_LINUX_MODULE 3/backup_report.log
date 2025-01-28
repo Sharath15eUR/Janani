@@ -1,0 +1,10 @@
+                                                                      
+                                                                             backup_report.log   (output file)
+
+
+
+
+total files processed: 1                          # total no. of files backed up 
+total size of files backed up: 55                 #total size of the files present in the backup directory 
+backup directory: /home/ubuntu/backup             #path to backup directory
+       
