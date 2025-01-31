@@ -1,3 +1,0 @@
-localhost refers to a machine
-Accessing localhost should require more knowledge on localhost
-localhost has a specific ip address
